@@ -1,0 +1,63 @@
+<center>
+	<table border="0">
+		<tr>
+			<th>
+				<img src="favicon.ico" width="108" height="108" />
+			</th>
+			<th>
+				<div class="pb-5"></div>
+			</th>
+			<th>
+				<font size="6">A PZ Open Source Project</font>
+			</th>
+		</tr>
+	</table>
+</center>
+
+<div class="pb-4"></div>
+
+<div style="padding: 0px 12px 12px 12px;">
+	<center>
+		<font size="4"><strong>ระบบจัดเก็บข้อมูล 1</strong> เป็นระบบจัดเก็บข้อมูลเกี่ยวกับการซื้อขายสินค้า</font>
+	</center>
+</div>
+
+<div style="padding: 0px 12px 0px 12px;">
+	<center>
+		<font size="3">ระบบนี้สร้างขึ้นมาจากความว่างและอยากช่วยเหลือ, จึงไปเห็นคนในครอบครัวคนนึง ขายของไปด้วยนั่งทำข้อมูลซื้อขายไปด้วย เลยเกิดไอเดียระบบจัดเก็บข้อมูลนี้ขึ้นมาเพื่อช่วยลดเวลาในการขายของและ Human Error &nbsp;พัฒนาระบบอย่างต่อเนื่องและเปิดเป็น Open Source</font>
+	</center>
+</div>
+
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบนี้เหมาะสำหรับ</strong></font><br><img src="/blank.png" height="4" /><br>
+<font size="3">
+	<div style="padding-left:2em">
+		<div class="pb-1"></div>
+		- &nbsp; การใช้งานแบบส่วนตัว<br><div class="pb-1"></div>
+		- &nbsp; อาชีพเสริม เช่น ขายของออนไลน์<br><div class="pb-1"></div>
+		<div class="pb-1"></div>
+	</div>
+</font>
+<br>
+
+<font size="4"><strong>สิ่งที่ใช้ในเว็บไซต์นี้</strong></font><br><img src="/blank.png" height="4" /><br>
+<font size="3">
+	<div style="padding-left:2em">
+		<div class="pb-1"></div>
+		- &nbsp;<u>รูปภาพกำลังโหลด</u> : มาจากเว็บไซต์ Preloaders.net รูปภาพชื่อ Rainbow <img src="wheel.svg" width="16" height="16" style="margin-bottom: -3px;" /> &nbsp;<a href="https://icons8.com/preloaders/" class="btn btn-sm btn-success" target="_blank">เข้าชมเว็บไซต์</a><br><div class="pb-1"></div>
+		- &nbsp;<u>ฟอนต์ตัวอักษร</u> : ใช้ฟอนต์ Sarabun จากเว็บไซต์ Google Fonts &nbsp;<a href="https://fonts.google.com/specimen/Sarabun" class="btn btn-sm btn-success" target="_blank">เข้าชมเว็บไซต์</a><br><div class="pb-1"></div>
+		- &nbsp;<u>กราฟ</u> : ใช้การแสดงของกราฟจาก Google Charts &nbsp;<a href="https://developers.google.com/chart" class="btn btn-sm btn-success" target="_blank">เข้าชมเว็บไซต์</a><br><div class="pb-1"></div>
+		<div class="pb-1"></div>
+	</div>
+</font>
+<br>
+<font size="4"><strong>สร้างโดย : </strong><img src="pzfavicon.ico" width="20" height="20" /> PZ Application Development.</font><br><img src="/blank.png" height="4" /><br>
+<font size="4"><strong>โดเนทได้ที่ : </strong><img src="https://lh3.googleusercontent.com/xpcuMXYEQJygAzRPaSiFExOv9ncx7h8ccWsXC7Pp554pK-mQdM4WyPr0_rEeea8PCB2F=s180-rw" width="20" height="20" /> Truemoney Wallet (เบอร์โทรศัพท์ผู้รับ) : 092-729-7160</font><br><img src="/blank.png" height="4" /><br>
+<font size="4"><strong>ติดตามได้ที่ : </strong><img src="https://abs.twimg.com/icons/apple-touch-icon-192x192.png" width="20" height="20" /> Twitter : <a href="https://twitter.com/copter4310s" class="btn btn-sm btn-primary" target="_blank">@copter4310s</a></font>
+<div class="pb-3"></div>
+<!--
+<br><img src="/blank.png" height="8" /><br>
+
+<center><a href="https://piczeeapp.ml/reportbug.php" class="btn btn-sm btn-success" target="_blank">Report Bugs</a></center>
+-->

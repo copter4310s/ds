@@ -1,0 +1,540 @@
+﻿<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 3.2.0 (วันที่ 25 พฤศจิกายน 2563)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับปรุง User Interface ใหม่ทั้งหมด<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp; <br>
+		</div>
+		
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 3.1.1 (วันที่ 25 ธันวาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มเงินตรา ตามหลังช่องให้ใส่ค่าขนส่ง ในหน้าเพิ่มข้อมูลขาย<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขให้รีเซ็ตข้อมูลค่าขนส่ง เมื่อกดปิดข้อความ ในหน้าเพิ่มข้อมูลขาย<br>
+		</div>
+		
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 3.1.0 (วันที่ 15 ธันวาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มข้อมูลค่าขนส่ง<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขไฟล์ภาษา<br><div style="padding-top: 2px;"></div>
+			- &nbsp;ลบข้อมูลหมายเหตุ<br>
+		</div>
+		
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 3.0.1 (วันที่ 7 ธันวาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่ม Animation<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขไฟล์ภาษา<br><div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับปรุงหน้ายกเลิกการขายสินค้า<br>
+		</div>
+		
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 3.0.0 (วันที่ 1 - 27 ตุลาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding: 0px 0px 8px 2em;"><u><strong>แก้ไขฐานข้อมูล :</strong></u> เปลี่ยนการเก็บข้อมูลวันที่จาก Text เปลี่ยนเป็น Date และ เปลี่ยนการข้อมูลอยู่ในคลังจาก Text เปลี่ยนเป็น TinyInt</div>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการตั้งค่าเวลาตั้งต้น ในหน้าหลักผู้ดูแลระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มกราฟประเภท ของสินค้าคงเหลือ ในหน้าหลักผู้ดูแลระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มสีพื้นหลังตารางไตรมาสสลับไตรมาส ในหน้าดูสรุปยอดขายแต่ละเดือนและพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการเปลี่ยนสีตัวเลขเป็นสีแดงเมื่อติดลบ (เฉพาะกำไร) ในทุกๆ หน้า<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการรองรับหลายภาษา<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มความสามารถในการ เพิ่ม/เปลี่ยน/ลบ ของข้อมูลการเข้าสู่ระบบฐานข้อมูล ได้ง่ายขี้น<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการอนุญาตให้ใช้เครื่องหมาย % # :<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขยกเลิกการขายสินค้าไม่ได้ ในหน้ายกเลิกการขายสินค้า<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขตั้งค่าคำสั่งเองไม่ได้ ในหน้าดูข้อมูลทั้งหมดและพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขการที่ต้องกดส่วนควบคุม 2 ครั้งเพื่อซ่อน เมื่อกดซ่อนครั้งแรก ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขสีพื้นหลัง, หลังปุ่มจัดเรียง ID ใหม่ และลบการตั้งค่า ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขไม่พบข้อมูล ไม่ขึ้น ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขกราฟแสดงยอดขายแต่ละเดือน ให้ไม่โค้ง ในหน้าดูสรุปยอดขายแต่ละเดือนและพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เปลี่ยนข้อความจากปิดส่วนควบคุม เป็นซ่อนส่วนควบคุม ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เปลี่ยนข้อความจากเปิดส่วนควบคุม เป็นแสดงส่วนควบคุม ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เปลี่ยนการแสดงข้อมูลสูงสุดของแต่ละหน้าจาก 50 เป็น 60 ข้อมูล ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เปลี่ยนการกดปุ่มเพื่อแสดงข้อมูลเก่าเมื่อข้อมูลมีความยาวมากกว่า 25 ตัวอักษร เป็น 21 ตัวอักษร ในหน้าแก้ไขข้อมูล<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เปลี่ยนการโหลดข้อมูลกราฟเฉพาะเดือนที่ตั้งค่า, จากเมื่อตั้งค่าเฉพาะ วัน/เดือน ขายที่ต้องการดู เป็น วัน/เดือน ซื้อและขายที่ต้องการดู ในหน้าพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เปลี่ยนการจำกัดการพิมพ์ข้อมูลสูงสุดจาก 300 เป็น 750 ข้อมูล เมื่อใช้โหมดการจัดเรียงและสินค้าในคลัง ในหน้าพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับปรุงหน้า เกี่ยวกับเว็บไซต์นี้<br><div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับปรุงความปลอดภัยของระบบ<br>
+		</div>
+		
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 2.5.0 (วันที่ 8 กันยายน 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มกราฟยอดขายแต่ละเดือน (ประเภทกราฟเส้น) ในหน้าดูสรุปยอดขายแต่ละเดือนและพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการเปิดและปิดของส่วนควบคุม ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มปุ่มสำหรับการดูข้อมูลเก่า, เมื่อข้อมูลนั้นมีความยาวมากกว่า 25 ตัวอักษร ในหน้าแก้ไขข้อมูล<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขกราฟโหลดเฉพาะปีปัจจุบัน (สรุปยอดขายแต่ละเดือน) ในหน้าพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;ย้ายข้อมูลรวมแต่ละไตรมาส ให้ลงมาอยู่ด้านล่างตาราง ในหน้าดูสรุปยอดขายแต่ละเดือนและพิมพ์ข้อมูลทั้งหมด<br>
+		</div>
+		
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 2.4.4 (วันที่ 24 สิงหาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับปรุงความปลอดภัยของระบบ<br>
+		</div>
+		
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 2.4.3 (วันที่ 20 สิงหาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขกล่องข้อความ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับปรุงความปลอดภัยของระบบ<br>
+		</div>
+		
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 2.4.2 (วันที่ 18 สิงหาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มข้อมูลหมายเหตุ ในหน้าเพิ่มข้อมูลขาย<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;<br>
+		</div>
+		
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 2.4.1 (วันที่ 12 สิงหาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขไม่มีข้อความขึ้นเมื่อทำการเข้าสู่ระบบผิดพลาด ในหน้ายกเลิกการขายสินค้าและดูสรุปยอดขายแต่ละเดือน<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขชื่อหน้าในตารางเข้าสู่ระบบ ในหน้าดูสรุปยอดขายแต่ละเดือน<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขปุ่มพิมพ์ข้อมูลนี้ ปรากฎขึ้นมาเมื่อยังไม่ได้ทำการเข้าสู่ระบบ ในหน้าดูสรุปยอดขายแต่ละเดือน<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขข้อความที่ติดกับปุ่มในตารางเข้าสู่ระบบ ในหน้าดูสรุปยอดขายแต่ละเดือน<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขสีของช่องในตารางล่างสุด ให้สีเข้มเท่ากับตารางบนสุด ในหน้าดูสรุปยอดขายแต่ละเดือนและพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เปลี่ยนข้อความจาก รวมทั้งสิ้น เป็น รวมหน้านี้ ในหน้าดูข้อมูลทั้งหมด<br>
+		</div>
+		
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 2.4.0 (วันที่ 11 สิงหาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มปุ่มจัดเรียง ID ใหม่ ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการเลือกว่าจะทำการจัดเรียง ID สินค้าใหม่ทั้งหมดไหม ในหน้าลบข้อมูล<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการอนุญาตให้ใช้เครื่องหมาย / ได้ในชื่อสินค้าและหมายเหตุ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มความสามารถในการ เพิ่ม/เปลี่ยน/ลบ ของข้อมูลประเภทและติดต่อสอบถามจาก ได้ง่ายขี้น<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มข้อมูล หมายเหตุ<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไข ชื่อสินค้า ให้สามารถใส่ได้สูงสุด 200 ตัวอักษร<br><div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับปรุงประสิทธิภาพของหน้า แก้ไขข้อมูล<br>
+		</div>
+		
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 2.3.2 (วันที่ 9 สิงหาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มหน้าดูสรุปยอดขายแต่ละเดือน (เข้าผ่าน หน้าหลักผู้ดูแลระบบ)<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;<br>
+		</div>
+		
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 2.3.1 (วันที่ 3 สิงหาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการโหลดข้อมูลกราฟเฉพาะเดือนที่ตั้งค่า, เมื่อตั้งค่า วัน/เดือน ขายที่ต้องการดู ในหน้าพิมพ์ข้อมูลทั้งหมด<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขกำลังโหลดไม่ขึ้นเมื่อกดปุ่ม บันทึก ในหน้าเพิ่มข้อมูลขายและยกเลิกการขายสินค้า<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขเพิ่มข้อมูลขายและยกเลิกการขายสินค้าแล้วแต่ยังแสดงข้อมูลที่อัปเดตไปแล้ว ในหน้าเพิ่มข้อมูลขายและยกเลิกการขายสินค้า<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขกำลังโหลดบังกล่องข้อความ ในหน้ายกเลิกการขายสินค้า<div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับปรุงความปลอดภัยของระบบ<br>
+		</div>
+		
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 2.3.0 (วันที่ 29 กรกฎาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการเรียง ID ใหม่เมื่อทำการลบข้อมูลออก ในหน้าลบข้อมูล<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขชื่อประเภท CD Player เขียนผิดในกราฟ, ในหน้าหลักผู้ดูแลระบบและพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขตารางข้อมูลชิดกับข้อความ ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เปลี่ยนชื่อประเภทจาก CD PL เป็น CDP<br>
+		</div>
+		
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 2.2.2 (วันที่ 23 กรกฎาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการแสดงข้อความเมื่อแก้ไขข้อมูลไม่ได้ ในหน้าแก้ไขข้อมูล<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับปรุงประสิทธิภาพของระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เปลี่ยนติดต่อมาจาก เป็น ติดต่อสอบถามจาก<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เปลี่ยนติดต่อสอบถามจาก, จาก Pantip เป็น Pantipmarket<br>
+		</div>
+		
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 2.2.1 (วันที่ 21 กรกฎาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการจำกัดการพิมพ์ข้อมูลสูงสุด 300 ข้อมูล เมื่อใช้โหมดการจัดเรียงและสินค้าในคลัง ในหน้าพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มคำว่า Sold ตามหน้าของชื่อกราฟ ในหน้าหลักผู้ดูแลระบบและพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการจำกัดความยาวตัวอักษรของ ชื่อสินค้า ให้มากที่สุดแค่ 100 ตัวอักษร<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มประเภท Cartridge (CT)<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มประเภท CD Player (CD PL)<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มประเภท Tape<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขกราฟประเภท ในหน้าหลักผู้ดูแลระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขตั้งค่าคำสั่งเองหายเมื่อโหลดกราฟ ในหน้าพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เปลี่ยนข้อความจาก ชื่อเครื่อง เป็น ชื่อสินค้า<br>
+		</div>
+		
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 2.2.0 (วันที่ 18 กรกฎาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มกราฟรายได้เมื่อวานแล้ว ในหน้าหลักผู้ดูแลระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มกราฟรายได้เดือนที่แล้ว ในหน้าหลักผู้ดูแลระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มกราฟรายได้ปีที่แล้ว ในหน้าหลักผู้ดูแลระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มความปลอดภัยของระบบ<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขเมื่อเลือกโหมดการจัดเรียงที่ต้องการราคาขายและกำไร ให้แสดงเฉพาะสินค้าที่ไม่มีอยู่ในคลัง ในหน้าดูข้อมูลทั้งหมดและพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขกำลังโหลดหายไปเองเมื่อหน้ากำลังโหลดใหม่ (Timeout ค้าง) ในทุกๆ หน้า<div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับปรุงกล่องข้อความ<br>
+		</div>
+		
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 2.1.0 (วันที่ 9 กรกฎาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่ม ยกเลิกการขายสินค้า<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการแสดงข้อมูลเปรียบเทียบขายโดยปีต่อปี ในหน้าหลักผู้ดูแลระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มกราฟรายได้ปีนี้ ในหน้าหลักผู้ดูแลระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการโหลดข้อมูลเฉพาะปีนี้ ในหน้าหลักผู้ดูแลระบบและพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการป้องกันการแก้ไขรหัสผ่านเมื่อกด ดำเนินการต่อ แล้ว ในทุกๆ หน้า<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มความปลอดภัยของระบบ<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขเพิ่มข้อมูลขายแล้วแต่ยังแสดงข้อมูลที่ขายไปแล้ว ในหน้าเพิ่มข้อมูลขาย<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขเข้าสู่ระบบไม่ได้ ในหน้าพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับปรุงกล่องข้อความ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับปรุงประสิทธิภาพของระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เปลี่ยนการแสดงข้อมูลทั้งหมดเมื่อเข้าสู่ระบบแล้วให้ยังไม่ต้องแสดงข้อมูล ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เปลี่ยนข้อความจาก ไม่อนุญาตให้ใช้คำสั่งเหล่านี้ เป็น ไม่สามารถทำตามคำสั่งที่ได้ป้อนไว้ได้ ในหน้าดูข้อมูลทั้งหมด<br>
+		</div>
+
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 2.0.1 (วันที่ 24 มิถุนายน 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการแสดงข้อมูลทีละ 50 รายการ ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มข้อความเมื่อไม่มีข้อมูล ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มกำลังโหลดเมื่อยืนยันการแก้ไขข้อมูลแล้ว ในหน้าแก้ไขข้อมูล<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มความปลอดภัยของระบบ<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไข, แก้ไขข้อมูล ราคาที่ซื้อมา ไม่ได้ ในหน้าแก้ไขข้อมูล<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขเข้าสู่ระบบไม่ได้ ในหน้าพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขพิมพ์ข้อมูลอีกรอบไม่ได้ (มือถือ) ในหน้าพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขกล่องข้อความ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับปรุงประสิทธิภาพของระบบ<br>
+		</div>
+
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 2.0.0 (วันที่ 5 มิถุนายน 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการป้องกันการใส่เครื่องหมาย + / \ * " ` % # : ; ในหน้าเพิ่มข้อมูลซื้อ และ แก้ไขข้อมูล<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการค้นหาชื่อเครื่อง ในหน้าดูข้อมูลทั้งหมดและพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มความปลอดภัยของระบบ<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขไม่มีข้อความ ไม่อนุณาตให้ใช้คำสั่งเหล่านี้ ขึ้น ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไข, แก้ไขข้อมูลไม่ได้<br>
+		</div>
+
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น B2.0.0 (วันที่ 1 - 4 มิถุนายน 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มรอการโหลดของหน้าเว็บไซต์ ในทุกๆ หน้า (หมดเวลาการรอ 10 วินาที)<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มสีพื้นหลังตัวใส่ข้อมูลเมื่อกดถัดไป ในหน้าเพิ่มข้อมูลซื้อ, เพิ่มข้อมูลขายและแก้ไขข้อมูล<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มข้อมูลมูลค่ารายการทั้งหมด, ขายไปแล้วและรายการที่ยังอยู่ในคลัง ในหน้าหลักผู้ดูแลระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มตั้งค่า วัน/เดือน ซื้อที่ต้องที่ดู ในหน้าดูข้อมูลทั้งหมดและพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มปุ่ม กลับไปหน้าที่แล้ว ในหน้าเพิ่มข้อมูลซื้อและเพิ่มข้อมูลขาย<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขเข้าสู่ระบบไม่ได้ ในทุกๆ หน้า<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขไม่มีข้อความทางด้านเทคนิคขึ้นเมื่อเกิดปัญหา ในทุกๆ หน้า<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขกำลังโหลดค้างเมื่อไม่มีรายการที่ยังไม่ได้ขาย ในหน้าเพิ่มข้อมูลขาย<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขใส่ " ไม่ได้ ในการตั้งค่าคำสั่งเอง ในหน้าดูข้อมูลทั้งหมดและพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;จัดเรียงข้อมูลในคลังใหม่ ในหน้าหลักผู้ดูแลระบบ<br>
+		</div>
+
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น A2.0.0 (วันที่ 29 พฤษภาคม - 1 มิถุนายน 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มข้อมูล การซื้อ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มข้อมูลรายการทั้งหมด, ขายไปแล้วกับรายการที่ยังอยู่ในคลัง ให้แสดงทั้งหมด ในหน้าหลักผู้ดูแลระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มโหมดการจัดเรียงและรายการที่จะแสดง ในหน้าดูข้อมูลทั้งหมดและพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการป้องกันการกดปุ่ม Enter ในหน้าเพิ่มข้อมูล, แก้ไขข้อมูลและการเข้าสู่ระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการป้องกันการแก้ไขเมื่อกดปุ่ม ถัดไป ในหน้าเพิ่มข้อมูล, แก้ไขข้อมูลและการเข้าสู่ระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่ม ข้อมูลเก่า ให้แสดงทั้งหมด ในหน้าแก้ไขข้อมูล<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มกราฟ ในหน้าพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มกำลังโหลดกราฟ ในหน้าหลักผู้ดูแลระบบและพิมพ์ข้อมูลทั้งหมด<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขตัวเลือกให้เลือกสิ่งที่เลือกไว้แล้ว ในทุกๆ หน้า<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขไม่มีข้อความ กรุณาใส่รหัสผ่านให้ถูกต้อง ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขการเปรียบเทียบข้อมูลเดือนก่อน ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขลบข้อมูลไม่ได้<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขกล่องข้อความ ในหน้าลบข้อมูล<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขการจัดเรียงเมื่อ ตั้งค่าคำสั่งเอง เกิดข้อผิดพลาด ในหน้าพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;จัดเรียงโค้ดใหม่และเพิ่มประสิทธิภาพทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับปรุงหน้า แก้ไขข้อมูล<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เปลี่ยนคำพูดของ โหมดการจัดเรียง เมื่อ ตั้งค่าคำสั่งเอง ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เปลี่ยนให้แสดงเวอร์ชั่น ล่าสุด เมื่อยังไม่ได้เข้าสู่ระบบ ในหน้าพิมพ์ข้อมูลทั้งหมด<br>
+		</div>
+
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 1.1.2.5 (วันที่ 23 พฤษภาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไข, แก้ไขข้อมูลไม่ได้<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขคำพูดเมื่อแก้ไขมูลเสร็จเรียบร้อยแล้ว<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขโหมดการจัดเรียงตอนพิมพ์เมื่อไม่อนุญาตคำสั่งเหล่านั้น<br><div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับปรุงกล่องข้อความ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับโหมดการจัดเรียงเมื่อเป็นคำสั่งที่ไม่อนุญาต<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เปลี่ยนชื่อจาก แหล่งที่มา เป็น ติดต่อมาจาก ในหน้าหลักผู้ดูแลระบบ<br>
+		</div>
+
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 1.1.2.4 (วันที่ 19 พฤษภาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มความปลอดภัยของระบบ<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับปรุงความปลอดภัยของระบบ<br>
+		</div>
+
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 1.1.2 (วันที่ 14 พฤษภาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มความปลอดภัยของระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มตารางให้ใส่รหัสผ่าน<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขประเภท Other ให้แสดงผล ในหน้าหลักผู้ดูแลระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขชื่อเรียกของราคาที่ไป ในหน้าดูข้อมูลทั้งหมดและพิมพ์ข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับปรุงหน้าสำหรับการพิมพ์<br><div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับปรุงความปลอดภัยของระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;ย้ายปุ่มสำหรับการพิมพ์ข้อมูลไว้ที่หน้าดูข้อมูลทั้งหมด<br>
+		</div>
+
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 1.1.1 (วันที่ 13 พฤษภาคม 2562)</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มพื้นหลังให้กล่องข้อความ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มหน้าสำหรับการพิมพ์ข้อมูล<br>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขการลบข้อมูลและการแก้ไขข้อมูล เมื่อไม่มีข้อมูลตาม ID ที่ต้องการ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขช่องโหว่ของระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;ปรับปรุงกล่องข้อความ<br>
+		</div>
+
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 1.1.0</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มข้อมูลการแก้ไขในแต่ละเวอร์ชั่น (Changelog)<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มประเภทเครื่องที่ขายไป<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มกราฟประเภท ในหน้าหลักผู้ดูแลระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มตั้งค่าคำสั่งเอง (ขั้นสูง) ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มปุ่มลบการต้ังค่า ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มข้อมูลรวมทั้งสิ้น ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการเข้าสู่ระบบ<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขปุ่มนำการทางและปิดหน้าต่างให้อยู่ในตาราง<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขชื่อโหมดการจัดเรียงขณะนี้ ให้เป็นไปตามโหมดที่เลือก<br><div style="padding-top: 2px;"></div>
+			- &nbsp;แก้ไขตัวเลขให้มีการแยกหน่วย<br>
+		</div>
+
+<div class="pb-4"></div>
+
+<font size="4"><strong>ระบบจัดเก็บข้อมูล เวอร์ชั่น 1.0.5</strong></font><br><img src="/blank.png" height="4" /><br>
+	<div style="padding-left:2em"><u>สิ่งที่เพิ่ม</u></div>
+		<div style="padding-left:4em">
+		<div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการแก้ไขข้อมูล ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มการลบข้อมูล ในหน้าดูข้อมูลทั้งหมด<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มปุ่มการนำทางและปิดหน้าต่าง<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มกราฟแหล่งที่มา ในหน้าหลักผู้ดูแลระบบ<br><div style="padding-top: 2px;"></div>
+			- &nbsp;เพิ่มตั้งค่า วัน/เดือน ที่ต้องการดู ในหน้าดูข้อมูลทั้งหมด<br>
+			<div style="padding-top: 2px;"></div>
+		</div>
+	<div style="padding-left:2em"><u>สิ่งที่แก้ไข</u></div>
+		<div style="padding-left:4em">
+			<div style="padding-top: 2px;"></div>
+			- &nbsp;<br>
+		</div>
